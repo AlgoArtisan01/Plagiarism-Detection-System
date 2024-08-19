@@ -1,13 +1,6 @@
 from PlagCheck.algorithm import ConsineSim
 from googleapiclient.discovery import build
 
-# Generic API Tokens
-
-# searchEngine_API = 'AIzaSyAoEYif8sqEYvj1P6vYLw6CGMrQbDMmaq8'
-#searchEngine_API = 'AIzaSyCUYy9AtdMUddiNA0gOcsGPQcE372ytyCw'
-#searchEngine_API = 'AIzaSyAQYLRBBeDQNxADPQtUnApntz78-urWEZI'
-#searchEngine_API = 'AIzaSyCAeR7_6TTKzoJmSwmOuHZvKcVg_lhqvCc'
-#searchEngine_Id = '758ad3e78879f0e08'
 
 #Registered API Token
 searchEngine_Id = '04fe417dd12de4e2b'
