@@ -3,8 +3,8 @@ from googleapiclient.discovery import build
 
 
 #Registered API Token
-searchEngine_Id = '04fe417dd12de4e2b'
-searchEngine_API = 'AIzaSyBUR02Qp6G8djXrARY1YvTvySXeBOOfSh0'
+searchEngine_Id = 'YOUR OWN ENGINE ID FROM GOOGLE DASHBOARD'
+searchEngine_API = 'YOUR OWN API KEY'
 
 
 
