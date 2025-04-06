@@ -100,16 +100,9 @@ Here are some sample outputs and a demo video of the plagiarism detection system
 🖼️ *Screenshot*
 
 <p align="center">
-  <img src="screenshots/plagiarism_output.png" alt="Plagiarism Detection Screenshot" width="500"/>
+  <img src="ss1.png" alt="Plagiarism Detection Screenshot" width="500"/>
 </p>
 
-🎥 *Demo Video*
-
-<p align="center">
-  <video src="screenshots/demo.mp4" controls width="600"></video>
-</p>
-
----
 
 
 ## 📚 Dependencies
