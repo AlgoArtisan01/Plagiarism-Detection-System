@@ -99,25 +99,12 @@ Here are some sample outputs and a demo video of the plagiarism detection system
 
 🖼️ *Screenshot*
 
+
 <p align="center">
   <img src="ss1.png" alt="Plagiarism Detection Screenshot" width="500"/>
 </p>
 
 
-
-## 📚 Dependencies
-
-See `requirements.txt`:
-
-```
-Django==3.1.2
-nltk==3.6.2
-google-api-python-client==1.12.5
-python-dotenv==0.15.0
-PyPDF2
-python-docx
-gunicorn
-```
 
 
 ## 🙏 Acknowledgements
