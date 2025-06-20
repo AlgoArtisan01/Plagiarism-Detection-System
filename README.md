@@ -103,11 +103,3 @@ Here are some sample outputs and a demo video of the plagiarism detection system
 <p align="center">
   <img src="ss1.png" alt="Plagiarism Detection Screenshot" width="500"/>
 </p>
-
-
-
-
-## 🙏 Acknowledgements
-
-- [Google Custom Search API](https://developers.google.com/custom-search/)
-- [NLTK - Natural Language Toolkit](https://www.nltk.org/)
